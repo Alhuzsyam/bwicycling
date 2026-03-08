@@ -675,7 +675,7 @@ get_header();
                     <div class="vs-step-num">1</div>
                 </div>
                 <h4>Pilih Rute</h4>
-                <p>Temukan rute yang pas — santai di tepi pantai atau tantang diri ke Kawah Ijen.</p>
+                <p>Temukan rute yang pas dan santai di tepi pantai atau tantang diri ke Kawah Ijen.</p>
                 <div class="vs-step-detail">
                     <div class="vs-step-detail-item"><i class="fas fa-check-circle"></i> Rute pemula & pro</div>
                     <div class="vs-step-detail-item"><i class="fas fa-check-circle"></i> Peta digital tersedia</div>
@@ -704,12 +704,12 @@ get_header();
             <div class="vs-step reveal" style="transition-delay:.2s">
                 <div class="vs-step-visual">
                     <div class="vs-step-img-wrap">
-                        <img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=600&auto=format&fit=crop" alt="Start Riding" loading="lazy">
+                        <img src="https://www.cycleplan.co.uk/media/qozc4i45/cycling-terms.jpg" alt="Start Riding" loading="lazy">
                     </div>
                     <div class="vs-step-num">3</div>
                 </div>
                 <h4>Start Riding!</h4>
-                <p>Sepeda premium siap, guide asik sudah nunggu. Tinggal gowes!</p>
+                <p>Sepeda premium siap, didampingi guide terbaik banyuwangi. Tinggal gowes!</p>
                 <div class="vs-step-detail">
                     <div class="vs-step-detail-item"><i class="fas fa-check-circle"></i> Road bike premium</div>
                     <div class="vs-step-detail-item"><i class="fas fa-check-circle"></i> Helm & perlengkapan</div>
