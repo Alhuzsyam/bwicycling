@@ -1,0 +1,12 @@
+/*
+ Theme Name:   Tailwind Child
+ Description:  Banyuwangi Cycling - Tailwind Version
+*/
+
+/* Sembunyikan Header Bawaan WordPress/Tema */
+.site-header, header#masthead, #wpadminbar { display: none !important; }
+html { margin-top: 0 !important; }
+
+/* Pastikan Font Terload */
+body { font-family: 'Inter', sans-serif; }
+h1, h2, h3, h4, h5, h6 { font-family: 'Oswald', sans-serif; }
