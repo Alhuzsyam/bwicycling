@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   wordpress:
     image: wordpress:latest
@@ -16,11 +14,11 @@ services:
       - wp_data:/var/www/html
       - ./wp-content:/var/www/html/wp-content
     networks:
-      - cafe_network        
+      - cafe-network
 
 volumes:
   wp_data:
 
 networks:
-  cafe_network:
-    external: true            # pakai network yang sudah ada
+  cafe-network:
+    external: true
