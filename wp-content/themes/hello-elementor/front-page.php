@@ -580,7 +580,7 @@ get_header();
             <img src="https://images.unsplash.com/photo-1544191696-102dbdaeeaa0?q=80&w=1600&auto=format&fit=crop" alt="Cycling Banyuwangi" loading="eager">
         </div>
         <div class="vs-slide">
-            <img src="localhost/wp-content/uploads/2026/02/IMG_5058-scaled.jpg" alt="Ijen Sunrise" loading="lazy">
+            <img src="http://168.110.193.105:4151/wp-content/uploads/2026/02/IMG_5058-scaled.jpg" alt="Ijen Sunrise" loading="lazy">
         </div>
         <div class="vs-slide">
             <img src="https://images.unsplash.com/photo-1490682143684-14369e18dce8?q=80&w=1600&auto=format&fit=crop" alt="Road Cycling Java" loading="lazy">
