@@ -641,7 +641,7 @@ get_header();
                     </div>
                     <a href="<?php the_permalink(); ?>" class="vs-tour-title"><?php the_title(); ?></a>
                     <div class="vs-tour-price"><?php echo $product->get_price_html(); ?></div>
-                    <a href="<?php echo esc_url( $product->add_to_cart_url() ); ?>" class="vs-tour-btn">
+                    <a href="<?php the_permalink(); class="vs-tour-btn">
                         Booking Sekarang
                     </a>
                 </div>
